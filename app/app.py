@@ -9,7 +9,7 @@ import plotly.express as px
 from zipfile import ZipFile
 from sklearn.cluster import KMeans
 plt.style.use('fivethirtyeight')
-#sns.set_style('darkgrid')
+sns.set_style('darkgrid')
 
 
 def main() :
