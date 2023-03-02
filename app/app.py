@@ -262,7 +262,7 @@ def main() :
         
         
     st.markdown('***')
-    st.markdown("Thanks for going through this Web App with me! I'd love feedback on this, so if you want to reach out you can find me on [twitter] (https://twitter.com/nalron_) or my [website](https://nalron.com/). *Code from [Github](https://github.com/nalron/project_credit_scoring_model)* ❤️")
+    st.markdown("Merci d'avoir parcouru cette application web. Laissez un commentaire sur mon  *Code from [Github](https://github.com/u0733172/P7_OC.git)* ❤️")
 
 
 if __name__ == '__main__':
