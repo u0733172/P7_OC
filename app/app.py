@@ -262,7 +262,7 @@ def main() :
         
         
     st.markdown('***')
-    st.markdown("Merci d'avoir parcouru cette application web. Laissez un commentaire sur mon  *Code from [Github](https://github.com/u0733172/P7_OC.git)* ❤️")
+    st.markdown("Merci d'avoir parcouru cette application web. Laissez un commentaire sur mon:  *Code from [Github](https://github.com/u0733172/P7_OC.git)* ❤️")
 
 
 if __name__ == '__main__':
