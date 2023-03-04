@@ -258,7 +258,7 @@ def main() :
         st.dataframe(load_kmeans(sample, chk_id, knn))
         st.markdown("<i>Target 1 = Customer with default</i>", unsafe_allow_html=True)
     else:
-        st.markdown("<i>…</i>", unsafe_allow_html=True)
+        st.markdown("<i>…</i>", unsafe_allow_html=True) 
         
         
     st.markdown('***')
